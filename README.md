@@ -1,1 +1,2 @@
-# MPCG2
+# synchronousBallMovement
+Ball moving synchronously
